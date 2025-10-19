@@ -62,8 +62,8 @@ Shows the trend of average military spending from 1939 to 1945.
 
 ---
 
-## 📂 Project Structure
-WWII_Statistics/
+### 📂 Project Structure
+ WWII_Statistics/
 │
 ├── data/
 │ └── wwii_dataset.csv
@@ -79,6 +79,7 @@ WWII_Statistics/
 │ └── military_spending_trend.png
 │
 └── README.md
+
 ---
 
 ## 🧠 Insights
@@ -89,6 +90,6 @@ WWII_Statistics/
 ---
 
 ## ✍️ Author
-Prepared by: **[Your Name]**  
+Prepared by: **[sacheera127]**  
 Course: *Data Analysis Assignment*
 
